@@ -6,7 +6,7 @@ This clip is built to work with [Capture](https://itunes.apple.com/us/app/captur
 
 The clip also works with Standard Cyborg's iOS Scanning SDK. [Full documentation](https://standardcyborg.com/docs/cocoa-api)
 
-*Note: full support for Capture and the iOS SDK coming this week. Currently models will be flipped left/right.
+*Note: full support for Capture and the iOS SDK coming this week. Currently models will be flipped left/right.*
 
 ### Device Support
 The current clip supports the iPhone X and iPhone Xs. We will release clips for the iPhone Xr, iPhone Xs Max, and iPad Pro (2018) soon.
