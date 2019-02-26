@@ -17,7 +17,7 @@ The current clip supports the iPhone X and iPhone Xs. We will release clips for 
 - We recommend multijet fusion, SLA, or SLS.
 
 ### The Mirror
-We built this clip to work with this mirror from Edmunds optics: [25.4 x 35.4mm, 4-6λ Mirror](https://www.edmundoptics.com/p/254-x-354mm-4-6lambda-mirror/26617/). The mirror is rated to a certain flatness and has a First Surface Mirror (FSM) on one side. A First Surface Mirror is desirable to prevent refraction through the 3mm glass. The mirror comes with a blue film on the FSM you will need to remove.
+We built this clip to work with this mirror from Edmunds optics: [25.4 x 35.4mm, 4-6λ Mirror](https://www.edmundoptics.com/p/254-x-354mm-4-6lambda-mirror/26617/). The mirror is rated to a certain flatness and has a First Surface Mirror (FSM) on one side. A First Surface Mirror is desirable to prevent refraction through the 3mm glass. The mirror comes with a blue film on the FSM you will need to remove. FSMs can scratch, so treat it with respect! 
 
 ### Use
 - The slot is just thick enough to slide the mirror in and hold it without additional friction.
