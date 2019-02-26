@@ -2,9 +2,11 @@
 
 This mirror clip bounces the light from the TrueDepth camera 90 degrees to make it easier to scan world-facing objects. 
 
-This clip is built to work with [Capture](https://itunes.apple.com/us/app/capture-3d-scan-anything/id1444183458?mt=8), available for free on the iOS App Store. 
+This clip is built to work with [Capture](https://itunes.apple.com/us/app/capture-3d-scan-anything/id1444183458?mt=8), available for free on the iOS App Store.  
 
 The clip also works with Standard Cyborg's iOS Scanning SDK. [Full documentation](https://standardcyborg.com/docs/cocoa-api)
+
+*Note: full support for Capture and the iOS SDK coming this week. Currently models will be flipped left/right.
 
 ### Device Support
 The current clip supports the iPhone X and iPhone Xs. We will release clips for the iPhone Xr, iPhone Xs Max, and iPad Pro (2018) soon.
