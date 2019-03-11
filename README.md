@@ -1,10 +1,8 @@
 # Mirror Clip
 
+This mirror clip bounces the light from the TrueDepth camera 90 degrees to make it easier to scan world-facing objects.
 
-
-This mirror clip bounces the light from the TrueDepth camera 90 degrees to make it easier to scan world-facing objects. 
-
-This clip is built to work with [Capture](https://itunes.apple.com/us/app/capture-3d-scan-anything/id1444183458?mt=8), available for free on the iOS App Store.  
+This clip is built to work with [Capture](https://itunes.apple.com/us/app/capture-3d-scan-anything/id1444183458?mt=8), available for free on the iOS App Store.
 
 The clip also works with Standard Cyborg's iOS Scanning SDK. [Full documentation](https://standardcyborg.com/docs/cocoa-api)
 
@@ -18,18 +16,18 @@ Direct Download
 
 Through Git
 ```
-git clone git@github.com:StandardCyborg/mirror-clip.git 
+git clone git@github.com:StandardCyborg/mirror-clip.git
 open mirror-clip/clips/iphone-x-xs.stl
 ```
 
 Need a 3D viewer on your computer? Try [Meshlab](http://www.meshlab.net/)
 
 ## Device Support
-The current clip supports the iPhone X and iPhone Xs. We will release clips for the iPhone Xr, iPhone Xs Max, and iPad Pro (2018) soon.
+The current clip supports the iPhone X. We will release clips for the iPhone Xs, iPhone Xr, iPhone Xs Max, and iPad Pro (2018) soon.
 
 - :white_check_mark: iPhone X
 - :soon: iPhone Xr
-- :white_check_mark: iPhone Xs
+- :soon: iPhone Xs
 - :soon: iPhone Xs Max
 - :soon: iPad Pro (2018)
 
@@ -39,7 +37,7 @@ The current clip supports the iPhone X and iPhone Xs. We will release clips for 
 - We recommend multijet fusion, SLA, or SLS.
 
 ## The Mirror
-We built this clip to work with this mirror from Edmunds optics: [25.4 x 35.4mm, 4-6λ Mirror](https://www.edmundoptics.com/p/254-x-354mm-4-6lambda-mirror/26617/). The mirror is rated to a certain flatness and has a First Surface Mirror (FSM) on one side. A First Surface Mirror is desirable to prevent refraction through the 3mm glass. The mirror comes with a blue film on the FSM you will need to remove. FSMs can scratch, so treat it with respect! 
+We built this clip to work with this mirror from Edmunds optics: [25.4 x 35.4mm, 4-6λ Mirror](https://www.edmundoptics.com/p/254-x-354mm-4-6lambda-mirror/26617/). The mirror is rated to a certain flatness and has a First Surface Mirror (FSM) on one side. A First Surface Mirror is desirable to prevent refraction through the 3mm glass. The mirror comes with a blue film on the FSM you will need to remove. FSMs can scratch, so treat it with respect!
 
 ## Use
 - The slot is just thick enough to slide the mirror in and hold it without additional friction.
