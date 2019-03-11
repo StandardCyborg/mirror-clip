@@ -12,12 +12,12 @@ The clip also works with Standard Cyborg's iOS Scanning SDK. [Full documentation
 
 Direct Download
 
-[![Download Clip](https://user-images.githubusercontent.com/891664/53451180-0f5ac380-39d3-11e9-99e9-8817967f558d.png)](https://github.com/StandardCyborg/mirror-clip/raw/master/clips/iphone-x-xs.stl)
+[![Download Clip](https://user-images.githubusercontent.com/891664/53451180-0f5ac380-39d3-11e9-99e9-8817967f558d.png)](https://github.com/StandardCyborg/mirror-clip/raw/master/clips/iphone-x.stl)
 
 Through Git
 ```
 git clone git@github.com:StandardCyborg/mirror-clip.git
-open mirror-clip/clips/iphone-x-xs.stl
+open mirror-clip/clips/iphone-x.stl
 ```
 
 Need a 3D viewer on your computer? Try [Meshlab](http://www.meshlab.net/)
