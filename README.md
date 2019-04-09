@@ -12,7 +12,7 @@ The clip also works with Standard Cyborg's iOS Scanning SDK. [Full documentation
 
 Direct Download
 
-[![Download Clip](https://user-images.githubusercontent.com/891664/55827063-328e8d80-5abe-11e9-9811-f83a87c8f558.Printing)](https://github.com/StandardCyborg/mirror-clip/raw/master/clips/iphone-x.stl)
+[![Download Clip](https://user-images.githubusercontent.com/891664/55827063-328e8d80-5abe-11e9-9811-f83a87c8f558.png)](https://github.com/StandardCyborg/mirror-clip/raw/master/clips/iphone-x.stl)
 
 Through Git
 ```
