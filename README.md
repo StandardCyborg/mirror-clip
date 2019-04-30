@@ -2,6 +2,8 @@
 
 This mirror clip bounces the light from the TrueDepth camera 90 degrees to make it easier to scan world-facing objects.
 
+The quickest way to get the clip is to buy it from our [Shapeways Store](https://www.shapeways.com/product/PN4HNSTW9/mirror-clip-iphone-x), but it is also open to download and print yourself.
+
 This clip is built to work with [Capture](https://itunes.apple.com/us/app/capture-3d-scan-anything/id1444183458?mt=8), available for free on the iOS App Store.
 
 The clip also works with Standard Cyborg's iOS Scanning SDK. [Full documentation](https://standardcyborg.com/docs/cocoa-api)
