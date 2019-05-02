@@ -45,10 +45,16 @@ We built this clip to work with this mirror from Edmunds optics: [25.4 x 35.4mm,
 - The slot is just thick enough to slide the mirror in and hold it without additional friction.
 - If you want to further secure the mirror, you can superglue the back. We do suggest you think through transporting to keep the unit safe if you decide to do this.
 
+#### Troubleshooting
+- If the mirror is falling out, but you still want the ability to remove it. Try adding a piece or two of electrical tape to the bottom of the glass side of the mirror.
+- If the clip is not fully secure on your phone, but you don't want to hold it with your finger during scanning. Try adding a piece or two of electrical tape to the inside of the back of the clip.
+
 ## Pictures
 <img width="659" alt="screen shot 2019-02-26 at 12 49 26 pm" src="https://user-images.githubusercontent.com/891664/53445245-fb0fca00-39c4-11e9-9f9c-1f91777fca90.png">
 <img width="853" alt="screen shot 2019-02-26 at 12 49 21 pm" src="https://user-images.githubusercontent.com/891664/53445246-fb0fca00-39c4-11e9-9f9f-838500ff8ca3.png">
 <img width="668" alt="screen shot 2019-02-26 at 12 49 14 pm" src="https://user-images.githubusercontent.com/891664/53445248-fb0fca00-39c4-11e9-81b9-80c9327dfc4c.png">
+
+
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
