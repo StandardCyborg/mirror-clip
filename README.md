@@ -2,19 +2,33 @@
 
 This mirror clip bounces the light from the TrueDepth camera 90 degrees to make it easier to scan world-facing objects.
 
-The quickest way to get the clip is to buy it from our [Shapeways Store](https://www.shapeways.com/product/PN4HNSTW9/mirror-clip-iphone-x), but it is also open to download and print yourself.
+The quickest way to get the clip is to buy it from our [Shapeways store](https://www.shapeways.com/shops/standard-cyborg), but it is also open to download and print yourself.
+
+- [iPhone X on Shapeways](https://www.shapeways.com/product/PN4HNSTW9/mirror-clip-iphone-x)
+- [iPhone Xr on Shapeways](https://www.shapeways.com/product/KRCQ943JP/mirror-clip-iphone-xr)
+- [iPhone Xs on Shapeways](https://www.shapeways.com/product/5E64RCNW8/mirror-clip-iphone-xs)
+- [iPhone Xs Max on Shapeways](https://www.shapeways.com/product/T5P8D6CJL/mirror-clip-iphone-xs-max)
+- [iPad Pro (2018) on Shapeways](https://www.shapeways.com/product/C5YMEQT9T/mirror-clip-ipad-pro-2018)
 
 This clip is built to work with [Capture](https://itunes.apple.com/us/app/capture-3d-scan-anything/id1444183458?mt=8), available for free on the iOS App Store.
 
 The clip also works with Standard Cyborg's iOS Scanning SDK. [Full documentation](https://standardcyborg.com/docs/cocoa-api)
 
-*Note: full support for Capture and the iOS SDK coming this week. Currently models will be flipped left/right.*
+*Note: full support for Capture and the iOS SDK coming soon. Currently models will be flipped left/right.*
 
 ## Instructions
 
 Direct Download
 
-[![Download Clip](https://user-images.githubusercontent.com/891664/55827063-328e8d80-5abe-11e9-9811-f83a87c8f558.png)](https://github.com/StandardCyborg/mirror-clip/raw/master/clips/iphone-x.stl)
+[![Download for iPhone X](https://user-images.githubusercontent.com/891664/59004429-71934380-87ce-11e9-80f1-82c3e38bc33b.png)](https://github.com/StandardCyborg/mirror-clip/raw/master/clips/iphone-x.stl)
+
+[![Download for iPhone Xr](https://user-images.githubusercontent.com/891664/59004430-71934380-87ce-11e9-9121-ebc745bd2ffc.png)](https://github.com/StandardCyborg/mirror-clip/raw/master/clips/iphone-xr.stl)
+
+[![Download for iPhone Xs](https://user-images.githubusercontent.com/891664/59004432-722bda00-87ce-11e9-95ad-c79342f77c58.png)](https://github.com/StandardCyborg/mirror-clip/raw/master/clips/iphone-xs.stl)
+
+[![Download for iPhone Xs Max](https://user-images.githubusercontent.com/891664/59004431-722bda00-87ce-11e9-8a8f-e786d2ad750f.png)](https://github.com/StandardCyborg/mirror-clip/raw/master/clips/iphone-xs-max.stl)
+
+[![Download for iPad Pro](https://user-images.githubusercontent.com/891664/59004428-71934380-87ce-11e9-8b96-3c66e5a52916.png)](https://github.com/StandardCyborg/mirror-clip/raw/master/clips/ipad-pro.stl)
 
 Through Git
 ```
@@ -25,13 +39,11 @@ open mirror-clip/clips/iphone-x.stl
 Need a 3D viewer on your computer? Try [Meshlab](http://www.meshlab.net/)
 
 ## Device Support
-The current clip supports the iPhone X. We will release clips for the iPhone Xs, iPhone Xr, iPhone Xs Max, and iPad Pro (2018) soon.
-
 - :white_check_mark: iPhone X
-- :soon: iPhone Xr
-- :soon: iPhone Xs
-- :soon: iPhone Xs Max
-- :soon: iPad Pro (2018)
+- :white_check_mark: iPhone Xr
+- :white_check_mark: iPhone Xs
+- :white_check_mark: iPhone Xs Max
+- :white_check_mark: iPad Pro (2018)
 
 ## Printing Suggestions
 - This design requires high dimensional accuracy.
@@ -39,7 +51,7 @@ The current clip supports the iPhone X. We will release clips for the iPhone Xs,
 - We recommend multijet fusion, SLA, or SLS.
 
 ## The Mirror
-We built this clip to work with this mirror from Edmunds optics: [25.4 x 35.4mm, 4-6λ Mirror](https://www.edmundoptics.com/p/254-x-354mm-4-6lambda-mirror/26617/). The mirror is rated to a certain flatness and has a First Surface Mirror (FSM) on one side. A First Surface Mirror is desirable to prevent refraction through the 3mm glass. The mirror comes with a blue film on the FSM you will need to remove. FSMs can scratch, so treat it with respect!
+We built these clips to work with this mirror from Edmunds optics: [25.4 x 35.4mm, 4-6λ Mirror](https://www.edmundoptics.com/p/254-x-354mm-4-6lambda-mirror/26617/). The mirror is rated to a certain flatness and has a First Surface Mirror (FSM) on one side. A First Surface Mirror is desirable to prevent refraction through the 3mm glass. The mirror comes with a blue film on the FSM you will need to remove. FSMs can scratch, so treat it with respect!
 
 ## Use
 - The slot is just thick enough to slide the mirror in and hold it without additional friction.
