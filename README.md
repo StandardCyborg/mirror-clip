@@ -15,23 +15,7 @@ The quickest way to get the clip is to buy it from our [Shapeways store](https:/
 
 This clip is built to work with [Capture](https://itunes.apple.com/us/app/capture-3d-scan-anything/id1444183458?mt=8), available for free on the iOS App Store.
 
-The clip also works with Standard Cyborg's iOS Scanning SDK. [Full documentation](https://standardcyborg.com/docs/cocoa-api)
-
-*Note: full support for Capture and the iOS SDK coming soon. Currently models will be flipped left/right.*
-
 ## Instructions
-
-Direct Download
-
-[![Download for iPhone X](https://user-images.githubusercontent.com/891664/59004429-71934380-87ce-11e9-80f1-82c3e38bc33b.png)](https://github.com/StandardCyborg/mirror-clip/raw/master/clips/iphone-x.stl)
-
-[![Download for iPhone Xr](https://user-images.githubusercontent.com/891664/59004430-71934380-87ce-11e9-9121-ebc745bd2ffc.png)](https://github.com/StandardCyborg/mirror-clip/raw/master/clips/iphone-xr.stl)
-
-[![Download for iPhone Xs](https://user-images.githubusercontent.com/891664/59004432-722bda00-87ce-11e9-95ad-c79342f77c58.png)](https://github.com/StandardCyborg/mirror-clip/raw/master/clips/iphone-xs.stl)
-
-[![Download for iPhone Xs Max](https://user-images.githubusercontent.com/891664/59004431-722bda00-87ce-11e9-8a8f-e786d2ad750f.png)](https://github.com/StandardCyborg/mirror-clip/raw/master/clips/iphone-xs-max.stl)
-
-[![Download for iPad Pro](https://user-images.githubusercontent.com/891664/59004428-71934380-87ce-11e9-8b96-3c66e5a52916.png)](https://github.com/StandardCyborg/mirror-clip/raw/master/clips/ipad-pro.stl)
 
 Through Git
 ```
@@ -72,10 +56,4 @@ We built these clips to work with this mirror from Edmunds optics: [25.4 x 35.4m
 
 
 ## License
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
-***
-
-![](https://www.standardcyborg.com/static/9fc01e360590f173539619cd0c23aa85/fe660/logo.png)
-
-*[Standard Cyborg](https://www.standardcyborg.com): The complete developer platform for interacting with 3D data*
+MIT License
